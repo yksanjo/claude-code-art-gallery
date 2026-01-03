@@ -10,7 +10,7 @@
 
 ## ✨ Features
 
-- 🎭 **6+ Pre-made Artworks** - From minimalist to cosmic themes
+- 🎭 **16+ Stunning Artworks** - From cyberpunk cities to neural networks
 - 🔄 **Easy Switching** - Change artwork anytime with one command
 - 🚀 **Simple Installation** - One script, instant setup
 - 🎨 **Community Driven** - Submit your own creations!
@@ -49,7 +49,7 @@
     └─────────────────────────────────────┘
 ```
 
-**[View all 6 artworks →](artwork/)**
+**[View all 16 artworks →](artwork/)**
 
 ## 🚀 Quick Start
 
@@ -86,6 +86,23 @@ chmod +x install.sh switch-art.sh
 ```
 
 ## 📦 Available Artworks
+
+### 🔥 Premium Collection
+
+| Name | Style | Description |
+|------|-------|-------------|
+| `cyberpunk-city` | Futuristic | Neon cityscape with towering buildings |
+| `synthwave-sunset` | Retro | 80s retrowave with gradient sunset |
+| `rocket-launch` | Dynamic | Rocket ship launching into space |
+| `neural-network` | AI | Neural network visualization |
+| `code-wave` | Creative | Animated code wave pattern |
+| `circuit-board` | Tech | Electronic circuit board design |
+| `galaxy-explorer` | Cosmic | Spaceship exploring the galaxy |
+| `hacker-terminal` | Elite | Professional hacker terminal UI |
+| `geometric-pattern` | Modern | Clean geometric shapes |
+| `developer-desk` | Realistic | Developer workspace scene |
+
+### 🎨 Classic Collection
 
 | Name | Style | Description |
 |------|-------|-------------|
