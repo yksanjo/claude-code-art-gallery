@@ -1,5 +1,12 @@
 # claude-code-art-gallery
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/claude-code-art-gallery/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/claude-code-art-gallery/actions)
+![License](https://img.shields.io/github/license/yksanjo/claude-code-art-gallery)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/claude-code-art-gallery)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/claude-code-art-gallery)
+
 ## Detailed Description
 
 claude-code-art-gallery is maintained as an industry-grade software project with production-ready engineering practices.  
